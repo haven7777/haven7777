@@ -15,12 +15,6 @@
 <a href="mailto:benbenben12322@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/haven7777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=haven7777&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/haven7777?style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/haven7777?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github" alt="Stars" />
-
 </div>
 
 ---
