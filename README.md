@@ -256,8 +256,6 @@ open_to:    Full-time roles · Freelance projects · Collaborations
 
 <div align="center">
 
-> *"Build tools that turn capability into outcomes — software people actually use to get things done."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
