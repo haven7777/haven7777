@@ -192,22 +192,7 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haven7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haven7777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=haven7777&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=haven7777&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 
 </div>
 
