@@ -166,6 +166,7 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 | Recognition | Details |
 | :---------- | :------ |
 | 🎓 **Harvard CS50** | Completed Harvard's CS50 — Introduction to Computer Science |
+| 🎓 **Hebrew University** | AI Engineering program |
 | 🚀 **3 AI Products Shipped** | MUSE, Resume AI & Mission Control — all live and open-source |
 | 🤖 **Multi-Agent Systems** | Production LangGraph pipelines orchestrating specialized AI agents |
 
