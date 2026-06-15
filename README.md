@@ -8,7 +8,6 @@
 
 <br/>
 
-![Harvard CS50](https://img.shields.io/badge/Harvard-CS50-A51C30?style=for-the-badge&logo=harvard&logoColor=white)
 ![Location](https://img.shields.io/badge/Israel-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <a href="https://benisacov.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
