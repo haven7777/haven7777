@@ -157,6 +157,18 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
+**Projects on GitHub**
+
+| Project | Tech | Description |
+| :------ | :--- | :---------- |
+| [MUSE](https://github.com/haven7777/MUSE-music-search-by-feeling) | TypeScript | Describe a feeling, discover its soundtrack — Next.js + Groq Llama 3.3 + Spotify/Audius/iTunes |
+| [Resume AI](https://github.com/haven7777/Resume-AI) | TypeScript | AI resume & job-match analyzer — three-agent LangGraph pipeline (HR, Tech, Market) + FastAPI + Supabase |
+| [Mission Control](https://github.com/haven7777/mission-control-financial-agent) | Python | Autonomous multi-agent financial analysis — LangGraph + FastAPI + Next.js |
+| [Stock Finder](https://github.com/haven7777/stock-finder-by-interest) | Python | AI-powered stock discovery based on personal interests |
+| [Site Monitor](https://github.com/haven7777/site-monitor) | Python | Website uptime monitor — retry logic, Telegram/email alerts, Flask dashboard, PDF incident reports |
+| [Movie Tracker](https://github.com/haven7777/movie-tracker) | Flask | Personal movie watchlist — Flask + SQLite + OMDB API |
+| [Portfolio](https://github.com/haven7777/portfolio) | TypeScript | Personal portfolio — Full Stack & AI Developer |
+
 ---
 
 ## 🏆 Achievements
