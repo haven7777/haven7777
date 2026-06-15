@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ben%20Isacov&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=20&descAlignY=54" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=200&section=header&text=Ben%20Isacov&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full+Stack+%26+AI+Engineer;Multi-Agent+AI+Pipelines;Workflow+Automation+%E2%86%92+Real+Products;Building+tools+that+help+people+ship" alt="Typing SVG" />
@@ -249,6 +249,6 @@ open_to:    Full-time roles · Freelance projects · Collaborations
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer" width="100%" />
 
 </div>
