@@ -12,9 +12,8 @@
 ![Location](https://img.shields.io/badge/Israel-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <a href="https://benisacov.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<!-- TODO: replace YOUR-HANDLE with your real LinkedIn vanity URL -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:benbenben12322@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/ben-isacov-939574389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:benisacov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/haven7777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
@@ -80,45 +79,63 @@ I build **practical tools and workflow automations** — from multi-agent AI pip
 
 ## 🚀 Featured Projects
 
-<!-- TODO: replace these sample projects with your real ones (name, description, table fields, repo URL) -->
-
 <details>
-<summary><b>🤖 Multi-Agent Workflow Engine</b></summary>
+<summary><b>🎵 MUSE — Find Music by Feeling</b></summary>
 
 <br/>
 
-An orchestration layer that coordinates specialized LLM agents to plan, execute, and verify multi-step tasks — turning a single prompt into a reliable, auditable workflow.
+Describe an emotion in natural language and MUSE surfaces its soundtrack — translating mood into real, playable tracks.
 
 | | |
 | :--- | :--- |
-| **Stack** | LangGraph · Python · FastAPI · Postgres/pgvector |
-| **Scale** | Concurrent agent runs with persistent, resumable state |
-| **Performance** | Streaming responses · parallel tool execution |
-| **Security** | Scoped tool permissions · sandboxed execution · secret isolation |
-| **Impact** | Cuts manual, multi-step workflows from hours to minutes |
-| **Repository** | [github.com/haven7777](https://github.com/haven7777) |
+| **Stack** | Next.js · TypeScript · Groq · Spotify API |
+| **Scale** | Real-time emotion-to-playlist generation |
+| **Performance** | Low-latency inference via Groq · streamed results |
+| **Security** | OAuth-scoped Spotify access · server-side API keys |
+| **Impact** | Turns a vague feeling into a curated listening experience |
+| **Repository** | [Live](https://muse-music-search-by-feeling.vercel.app) · [GitHub](https://github.com/haven7777/MUSE-music-search-by-feeling) |
 
-Designed around a stateful graph so each agent step is observable and recoverable — failed steps retry without losing context, and every decision is traceable for evals.
+Maps fuzzy human input to structured music search — fast LLM inference on Groq drives emotion parsing, with the Spotify API delivering the actual tracks.
 
 </details>
 
 <details>
-<summary><b>🌐 Full-Stack Automation Platform</b></summary>
+<summary><b>🧩 Resume AI — AI-Powered Job Match</b></summary>
 
 <br/>
 
-A web product that lets users compose AI-powered automations through a clean UI and run them against their own data and integrations.
+A three-agent LangGraph pipeline — HR, Technical, and Market analysts — that scores a resume against a job posting and explains the fit.
 
 | | |
 | :--- | :--- |
-| **Stack** | Next.js · TypeScript · Tailwind · Supabase · Node.js |
-| **Scale** | Multi-tenant with row-level security |
-| **Performance** | Edge-rendered UI · optimistic updates · cached reads |
-| **Security** | Supabase Auth · RLS · per-tenant data isolation |
-| **Impact** | Non-technical users ship automations without writing code |
-| **Repository** | [github.com/haven7777](https://github.com/haven7777) |
+| **Stack** | LangGraph · FastAPI · Next.js · Supabase |
+| **Scale** | Parallel multi-agent evaluation per submission |
+| **Performance** | Concurrent agent runs · structured, streamed scoring |
+| **Security** | Supabase Auth · RLS · server-side keys |
+| **Impact** | Turns an opaque "am I a fit?" into an explainable score |
+| **Repository** | [Live](https://resume-ai-gray-one.vercel.app) · [GitHub](https://github.com/haven7777/Resume-AI) |
 
-Built full-stack with a typed API contract end to end, so the AI layer, the data layer, and the UI stay in sync as features grow.
+Each agent owns a perspective (people, tech, market) and the graph synthesizes them into a single, justified match score — multi-agent orchestration applied to a real decision.
+
+</details>
+
+<details>
+<summary><b>📈 Mission Control — Autonomous Finance Agents</b></summary>
+
+<br/>
+
+A multi-agent system that autonomously researches and synthesizes market data into a coherent financial analysis.
+
+| | |
+| :--- | :--- |
+| **Stack** | LangGraph · FastAPI · Next.js · Python |
+| **Scale** | Autonomous multi-step research across data sources |
+| **Performance** | Parallel agent execution · streamed synthesis |
+| **Security** | Server-side keys · isolated tool execution |
+| **Impact** | Compresses manual market research into automated reports |
+| **Repository** | [Live](https://frontend-seven-swart-31.vercel.app) · [GitHub](https://github.com/haven7777/mission-control-financial-agent) |
+
+Agents independently gather and reconcile market data, then hand off to a synthesis step — end-to-end autonomous research rather than a single LLM call.
 
 </details>
 
@@ -126,15 +143,13 @@ Built full-stack with a typed API contract end to end, so the AI layer, the data
 
 ## 💼 Experience
 
-<!-- TODO: replace with your real roles, companies, and dates -->
+**Full Stack & AI Engineer** · *Independent*
+`Present`
 
-**Full Stack & AI Engineer** · *Independent / Freelance*
-`2023 — Present`
+Designing and shipping AI-driven tools and full-stack products end to end — from multi-agent backends to polished, deployed web apps.
 
-Designing and shipping AI-driven tools and full-stack products end to end — from multi-agent backends to polished user-facing web apps.
-
-- Built multi-agent AI pipelines with LangGraph and FastAPI for real workflow automation
-- Shipped full-stack Next.js + Supabase products with auth, RLS, and typed APIs
+- Built **Resume AI** & **Mission Control** — multi-agent LangGraph + FastAPI pipelines for resume scoring and autonomous financial research
+- Shipped **MUSE**, a Next.js + Groq + Spotify product translating emotion into music
 - Owned the full lifecycle: architecture → implementation → deployment on Vercel
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -152,7 +167,8 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 | Recognition | Details |
 | :---------- | :------ |
 | 🎓 **Harvard CS50** | Completed Harvard's CS50 — Introduction to Computer Science |
-<!-- TODO: add more recognitions (hackathons, awards, OSS milestones) -->
+| 🚀 **3 AI Products Shipped** | MUSE, Resume AI & Mission Control — all live and open-source |
+| 🤖 **Multi-Agent Systems** | Production LangGraph pipelines orchestrating specialized AI agents |
 
 </div>
 
@@ -165,21 +181,6 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 ![CS50](https://img.shields.io/badge/CS50-Computer%20Science-A51C30?style=flat-square&logo=harvard&logoColor=white)
 
 <!-- TODO: add more providers/badges (AWS, Oracle, NPTEL, Cisco, etc.) as you earn them -->
-
----
-
-## ⚔️ Coding Profiles
-
-<!-- TODO: replace «username» placeholders with your real handles, or remove rows you don't use -->
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/«username»)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/«username»)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/«username»)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/«username»)
-
-</div>
 
 ---
 
@@ -244,9 +245,8 @@ open_to:    Full-time roles · Freelance projects · Collaborations
 
 <div align="center">
 
-<a href="mailto:benbenben12322@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- TODO: replace YOUR-HANDLE with your real LinkedIn vanity URL -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:benisacov@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ben-isacov-939574389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/haven7777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://benisacov.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
