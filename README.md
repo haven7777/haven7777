@@ -178,7 +178,11 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 
 **Harvard**
 
-![CS50](https://img.shields.io/badge/CS50-Computer%20Science-A51C30?style=flat-square&logo=harvard&logoColor=white)
+[![CS50](https://img.shields.io/badge/CS50-Computer%20Science-A51C30?style=flat-square&logo=harvard&logoColor=white)](https://certificates.cs50.io/128a6837-6e6e-42a4-901d-d581b723aaec.pdf?size=letter)
+
+**Hebrew University**
+
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Program-003366?style=flat-square&logo=googlescholar&logoColor=white)
 
 <!-- TODO: add more providers/badges (AWS, Oracle, NPTEL, Cisco, etc.) as you earn them -->
 
