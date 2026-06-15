@@ -166,8 +166,6 @@ Designing and shipping AI-driven tools and full-stack products end to end — fr
 | [Mission Control](https://github.com/haven7777/mission-control-financial-agent) | Python | Autonomous multi-agent financial analysis — LangGraph + FastAPI + Next.js |
 | [Stock Finder](https://github.com/haven7777/stock-finder-by-interest) | Python | AI-powered stock discovery based on personal interests |
 | [Site Monitor](https://github.com/haven7777/site-monitor) | Python | Website uptime monitor — retry logic, Telegram/email alerts, Flask dashboard, PDF incident reports |
-| [Movie Tracker](https://github.com/haven7777/movie-tracker) | Flask | Personal movie watchlist — Flask + SQLite + OMDB API |
-| [Portfolio](https://github.com/haven7777/portfolio) | TypeScript | Personal portfolio — Full Stack & AI Developer |
 
 ---
 
